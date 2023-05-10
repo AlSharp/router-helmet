@@ -32,7 +32,7 @@ function Layout() {
     <div>
       <Helmet>
         <title>React-Router-Helmet</title>
-        <link rel="canonical" href="https://www.tacobell.com/" />
+        <link rel="canonical" href="https://alsharp.github.io/router-helmet" />
       </Helmet>
       <h1>Web App with React-Router and React-Helmet-Async</h1>
       {/* A "layout route" is a good place to put markup you want to
@@ -40,16 +40,16 @@ function Layout() {
       <nav>
         <ul>
           <li>
-            <Link to="/router-helmet">Home</Link>
+            <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="/router-helmet/about">About</Link>
+            <Link to="/about">About</Link>
           </li>
           <li>
-            <Link to="/router-helmet/dashboard">Dashboard</Link>
+            <Link to="/dashboard">Dashboard</Link>
           </li>
           <li>
-            <Link to="/router-helmet/nothing-here">Nothing Here</Link>
+            <Link to="/nothing-here">Nothing Here</Link>
           </li>
         </ul>
       </nav>
@@ -132,7 +132,7 @@ function NoMatch() {
     <div>
       <h2>Nothing to see here!</h2>
       <p>
-        <Link to="/router-helmet">Go to the home page</Link>
+        <Link to="/">Go to the home page</Link>
       </p>
     </div>
   );
