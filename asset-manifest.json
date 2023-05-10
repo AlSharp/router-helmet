@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/router-helmet/static/css/main.073c9b0a.css",
-    "main.js": "/router-helmet/static/js/main.93cf2e94.js",
+    "main.js": "/router-helmet/static/js/main.6739e189.js",
     "index.html": "/router-helmet/index.html",
     "main.073c9b0a.css.map": "/router-helmet/static/css/main.073c9b0a.css.map",
-    "main.93cf2e94.js.map": "/router-helmet/static/js/main.93cf2e94.js.map"
+    "main.6739e189.js.map": "/router-helmet/static/js/main.6739e189.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.93cf2e94.js"
+    "static/js/main.6739e189.js"
   ]
 }
